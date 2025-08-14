@@ -1,0 +1,24 @@
+EXECUTION TIME ANALYSIS
+==================================================
+
+Overall Average:
+  Before: 1.4948 seconds
+  After:  1.2120 seconds
+  Change: -18.9%
+
+By Difficulty:
+  easy:
+    Before: 0.0317s
+    After:  0.0254s
+    Change: -19.9%
+
+  hard:
+    Before: 5.9611s
+    After:  4.4025s
+    Change: -26.1%
+
+  medium:
+    Before: 1.8640s
+    After:  1.6678s
+    Change: -10.5%
+

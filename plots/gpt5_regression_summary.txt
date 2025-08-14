@@ -1,0 +1,9 @@
+REGRESSION ANALYSIS (Right → Wrong)
+==================================================
+
+Overall: 43/1055 questions (4.1%)
+
+By Difficulty:
+  easy: 10/322 (3.1%)
+  hard: 19/350 (5.4%)
+  medium: 14/383 (3.7%)

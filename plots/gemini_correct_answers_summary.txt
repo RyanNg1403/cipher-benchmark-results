@@ -1,0 +1,24 @@
+CORRECT ANSWERS ANALYSIS
+==================================================
+
+Overall Accuracy:
+  Without Cipher: 897/1055 (85.0%)
+  With Cipher:    916/1055 (86.8%)
+  Change:         +1.8%
+
+By Difficulty:
+  easy:
+    Without Cipher: 326/332 (98.2%)
+    With Cipher:    328/332 (98.8%)
+    Change:         +0.6%
+
+  hard:
+    Without Cipher: 220/343 (64.1%)
+    With Cipher:    230/343 (67.1%)
+    Change:         +2.9%
+
+  medium:
+    Without Cipher: 351/380 (92.4%)
+    With Cipher:    358/380 (94.2%)
+    Change:         +1.8%
+

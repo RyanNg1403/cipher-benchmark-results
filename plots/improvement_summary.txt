@@ -1,0 +1,9 @@
+IMPROVEMENT ANALYSIS (Wrong → Right)
+==================================================
+
+Overall: 122/1055 questions (11.6%)
+
+By Difficulty:
+  easy: 16/322 (5.0%)
+  hard: 47/350 (13.4%)
+  medium: 59/383 (15.4%)
