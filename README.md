@@ -128,6 +128,7 @@ Optional flags (performance/tuning): `--num_process_evaluate 8`, `--timeout 6`, 
 #### Regenerate plots from benchmark JSONs
 ```bash
 cd /path/to/cipher-benchmark-results
+source venv/bin/activate
 
 # GPT-5-Nano figures (uses data/gpt5_no_memory.json and data/gpt5_with_memory.json)
 python analyze_results.py
