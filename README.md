@@ -2,8 +2,10 @@
 
 ### 1. Abstraction
 Large Language Models (LLMs) are typically stateless and constrained by training cutoffs. A memory layer enables continual learning by allowing models to evolve their knowledge with experience. Cipher provides such a memory layer: it stores structured, retrieval-ready reflections so models can learn from mistakes and reinforce good practices without expensive fine-tuning or exposing ground-truth answers.
-Try out Cipher here: [Cipher](https://github.com/campfirein/cipher)
-This experiment is carried out by Byterover team. More from Byterover here: [Byterover](https://www.byterover.dev/)
+
+**Try out Cipher here: [Cipher](https://github.com/campfirein/cipher)**
+
+**This experiment is carried out by Byterover team. More from Byterover here: [Byterover](https://www.byterover.dev/)**
 ### 2. Benchmark setup
 - **Models**: GPT-5-Nano and Gemini-2.5-Pro
 - **Framework**: LiveCodeBench with Cipher memory workflow (see `LiveCodeBench/README.md` for setup and evaluation commands)
